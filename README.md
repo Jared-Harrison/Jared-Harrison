@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Jared
 ---
 
-I am a Computer Science student at Western University with a strong academic record and a passion for building well-structured, practical software. I enjoy tackling complex problems by breaking them down into manageable components and turning them into clean, maintainable solutions.
-
-Beyond coding, I value communication and mentorship. Teaching and explaining concepts—whether through tutoring, leadership roles, or collaboration—has strongly shaped how I write and think about code.
+I am a Computer Science student at Western University with a strong academic record and a passion for building well-structured, practical software. I love the 'puzzle' aspect of software engineering—taking a massive, messy problem and breaking it down until it's a series of clean, manageable solutions. This mindset has kept me on the Dean's Honour List at Western, but it’s also what drives my work outside the classroom. My time as a Soph leader and CSUS Director taught me that tech is a team sport; I value clear communication and mentorship just as much as a bug-free build.
 
 ---
 
