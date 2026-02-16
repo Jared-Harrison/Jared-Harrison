@@ -1,10 +1,3 @@
-# 👋 Hi, I'm Jared
----
-
-I am a Computer Science student at Western University with a strong academic record and a passion for building well-structured, practical software. I love the 'puzzle' aspect of software engineering—taking a massive, messy problem and breaking it down until it's a series of clean, manageable solutions. This mindset has kept me on the Dean's Honour List at Western, but it’s also what drives my work outside the classroom. My time as a Soph leader and CSUS Director taught me that tech is a team sport; I value clear communication and mentorship just as much as a bug-free build.
-
----
-
 ## 🛠️ Skills & Technologies
 
 **Languages**  
@@ -16,6 +9,14 @@ I am a Computer Science student at Western University with a strong academic rec
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+
+**Data Science & Scientific Computing**  
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white)
+![Polars](https://img.shields.io/badge/Polars-CD792C?style=flat)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=flat)
 
 **Frameworks & Libraries**  
 ![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat&logo=qt&logoColor=white)
@@ -33,12 +34,3 @@ I am a Computer Science student at Western University with a strong academic rec
 ![Google Workspace](https://img.shields.io/badge/Google%20Workspace-4285F4?style=flat&logo=google&logoColor=white)
 ![Active Directory](https://img.shields.io/badge/Active%20Directory-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-00A1E0?style=flat)
-
----
-
-## ⚽ Fun Facts
-- Big soccer fan (playing and watching)
-- Enjoy gaming and interactive experiences
-- Very social and enjoy working with others
-- Regularly train at the gym
-- Love travelling and exploring new places
